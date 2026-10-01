@@ -1,5 +1,6 @@
 # CV2026
 ### Homework1
 
-[Selection![Alt homework11](./homework/homework1.jpg)
-Sorting](./homework/SelectionSorting.pde)
+[Selection![Alt homework1])
+
+[Uploading Camera 2026-10-01 14-41-40.zip…]()
