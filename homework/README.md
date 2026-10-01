@@ -3,14 +3,10 @@
 
 homework1-1 -Selfimode
 
-[Selfimode.zip](https://github.com/user-attachments/files/32889164/Selfimode.zip)
-
-https://github.com/user-attachments/assets/4c77cbf0-4094-4e8c-aec6-b424d5570648
+Selfimode(https://github.com/user-attachments/assets/4c77cbf0-4094-4e8c-aec6-b424d5570648)
 
 
 homework1-2 -Yolo
 
-[Yolo.zip](https://github.com/user-attachments/files/32889180/Yolo.zip)
-
-https://github.com/user-attachments/assets/a35fc457-c548-4f87-b5f0-19e65ded6d7f
+Yolo(https://github.com/user-attachments/assets/a35fc457-c548-4f87-b5f0-19e65ded6d7f)
 
