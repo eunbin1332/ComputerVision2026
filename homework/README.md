@@ -1,4 +1,4 @@
-[Selfimode.zip](https://github.com/user-attachments/files/32889176/Selfimode.zip)# CV2026
+# CV2026
 ### Homework1
 
 homework1-1 -Selfimode
