@@ -1,11 +1,11 @@
-# CV2026
+[Selfimode.zip](https://github.com/user-attachments/files/32889176/Selfimode.zip)# CV2026
 ### Homework1
 
 homework1 -Selfimode
 
-[Uploading Selfimode.zip…]()
+[Selfimode.zip](https://github.com/user-attachments/files/32889164/Selfimode.zip)
+
 
 homework2 -Yolo
 
-[Uploading Yolo.zip…]()
-
+[Yolo.zip](https://github.com/user-attachments/files/32889180/Yolo.zip)
