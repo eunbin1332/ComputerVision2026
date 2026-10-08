@@ -11,6 +11,7 @@ Selfimode(https://github.com/user-attachments/assets/4c77cbf0-4094-4e8c-aec6-b42
 Yolo(https://github.com/user-attachments/assets/a35fc457-c548-4f87-b5f0-19e65ded6d7f)
 
 ###homework2 - Classification 
+
 code(Simple neural network)
 
 <img width="754" height="511" alt="image" src="https://github.com/user-attachments/assets/1b0e4b78-58b5-4628-ae93-3ababd11a00b" />
