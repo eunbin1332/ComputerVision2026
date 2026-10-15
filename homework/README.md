@@ -1,16 +1,16 @@
 # CV2026
 ### Homework1
 
-###homework1-1 -Selfimode
+### homework1-1 -Selfimode
 
 Selfimode(https://github.com/user-attachments/assets/4c77cbf0-4094-4e8c-aec6-b424d5570648)
 
 
-###homework1-2 -Yolo
+### homework1-2 -Yolo
 
 Yolo(https://github.com/user-attachments/assets/a35fc457-c548-4f87-b5f0-19e65ded6d7f)
 
-###homework2 - Classification 
+### homework2 - Classification 
 
 code(Simple neural network)
 
@@ -34,9 +34,9 @@ code(Complex neural network)
 
 
 
-###homework3 - FNN & CNN - MNIST Analysis 
+### homework3 - FNN & CNN - MNIST Analysis 
 
-###code
+### code
 
 <img width="498" height="611" alt="image" src="https://github.com/user-attachments/assets/00a4ce5a-2b73-44ac-a2a5-49735b103735" />
 <img width="561" height="725" alt="image" src="https://github.com/user-attachments/assets/ebda181c-ed9b-4ec6-8174-49af53b0567a" />
@@ -51,7 +51,7 @@ code(Complex neural network)
 <img width="660" height="530" alt="image" src="https://github.com/user-attachments/assets/bbe8526c-fc67-4431-8740-9e0a3480139c" />
 
 
-###result
+### result
 
 <img width="1252" height="651" alt="image" src="https://github.com/user-attachments/assets/4f3b2c05-342c-46a8-8687-386d8f38c523" />
 <img width="734" height="445" alt="image" src="https://github.com/user-attachments/assets/d3181251-bf5f-4320-bdae-326565f92929" />
